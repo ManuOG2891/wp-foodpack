@@ -1,0 +1,7 @@
+FoodPack Color Scheme:
+
+Background: rgba(0, 0, 0, 0)
+Text: rgb(136, 136, 136)
+Links: rgb(26, 34, 37)
+Headings: rgb(22, 131, 9)
+Primary Brand Color: #16830A (Green)
