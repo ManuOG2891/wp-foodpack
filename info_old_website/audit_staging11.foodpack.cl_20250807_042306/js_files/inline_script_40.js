@@ -1,0 +1,7 @@
+/* Script inline #40 */
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "ultimate-member", {"translation-revision-date":"2025-05-13 13:26:54+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"Are you sure that you want to delete this user?":["\u00bfSeguro que quieres borrar este usuario?"],"Upload a cover photo":["Subir una foto de portada"]}},"comment":{"reference":"assets\/js\/um-profile.js"}} );
