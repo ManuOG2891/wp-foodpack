@@ -1,4 +1,0 @@
-FoodPack Fonts:
-
-- Roboto
-- Roboto, sans-serif
